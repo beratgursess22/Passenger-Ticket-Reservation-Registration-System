@@ -1,0 +1,10 @@
+D:\dwskopyedek\C# 25.proje\Passenger Ticket Reservation & Registration System\PassengerTicket\PassengerTicket\bin\Debug\PassengerTicket.exe.config
+D:\dwskopyedek\C# 25.proje\Passenger Ticket Reservation & Registration System\PassengerTicket\PassengerTicket\bin\Debug\PassengerTicket.exe
+D:\dwskopyedek\C# 25.proje\Passenger Ticket Reservation & Registration System\PassengerTicket\PassengerTicket\bin\Debug\PassengerTicket.pdb
+D:\dwskopyedek\C# 25.proje\Passenger Ticket Reservation & Registration System\PassengerTicket\PassengerTicket\obj\Debug\PassengerTicket.csprojAssemblyReference.cache
+D:\dwskopyedek\C# 25.proje\Passenger Ticket Reservation & Registration System\PassengerTicket\PassengerTicket\obj\Debug\PassengerTicket.Properties.Resources.resources
+D:\dwskopyedek\C# 25.proje\Passenger Ticket Reservation & Registration System\PassengerTicket\PassengerTicket\obj\Debug\PassengerTicket.csproj.GenerateResource.cache
+D:\dwskopyedek\C# 25.proje\Passenger Ticket Reservation & Registration System\PassengerTicket\PassengerTicket\obj\Debug\PassengerTicket.csproj.CoreCompileInputs.cache
+D:\dwskopyedek\C# 25.proje\Passenger Ticket Reservation & Registration System\PassengerTicket\PassengerTicket\obj\Debug\PassengerTicket.exe
+D:\dwskopyedek\C# 25.proje\Passenger Ticket Reservation & Registration System\PassengerTicket\PassengerTicket\obj\Debug\PassengerTicket.pdb
+D:\dwskopyedek\C# 25.proje\Passenger Ticket Reservation & Registration System\PassengerTicket\PassengerTicket\obj\Debug\PassengerTicket.ResarvationTicket.resources
